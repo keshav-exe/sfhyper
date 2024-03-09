@@ -37,3 +37,7 @@ For any issues or feedback, please open an issue on GitHub or reach out to the d
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file for details.
+
+## Keywords
+
+Sf pro magisk module for HyperOS, iOS font magisk module, iOS font magisk module for HyperOS, iOS emojis for HyperOS, SF pro HyperOS, SF pro magisk module
