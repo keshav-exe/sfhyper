@@ -21,7 +21,7 @@ This module has been tested on the following device:
 
 ## Credits
 
-This module is a modified version of IslamAlOrabl's original SFmoji module. Special thanks to [IslamAlOrabl](https://t.me/IslamAlOrabl) for the groundwork. Modified by [kshvbgde](https://t.me/kshvbgde) on Telegram.
+This module is a modified version of IslamAlOrabl's original SFmoji module. Special thanks to [Shadow6by8](https://t.me/Shadow6by8) for the groundwork. Modified by [kshvbgde](https://t.me/kshvbgde) on Telegram.
 
 ## Installation Instructions
 
