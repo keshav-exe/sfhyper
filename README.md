@@ -26,7 +26,7 @@ This module is a modified version of IslamAlOrabl's original SFmoji module. Spec
 ## Installation Instructions
 
 1. Ensure your device is rooted and running MIUI/HyperOS.
-2. Download and install the SFHyper module using Magisk Manager.
+2. [Download](https://github.com/keshav-exe/sfhyper/releases/tag/v1.3) and install the SFHyper module using Magisk Manager.
 
 Enjoy your new fonts and emojis!
 
